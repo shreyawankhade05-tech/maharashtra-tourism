@@ -1,0 +1,233 @@
+{
+  "pune": {
+    "places": [
+      "Shaniwar Wada",
+      "Sinhagad Fort",
+      "Aga Khan Palace",
+      "Dagdusheth Temple",
+      "Khadakwasla Dam",
+      "Rajiv Gandhi Zoo",
+      "Parvati Hill",
+      "Pataleshwar Cave",
+      "Okayama Garden",
+      "Vetal Tekdi"
+    ],
+    "hotels": [
+      "JW Marriott Pune",
+      "Hyatt Regency Pune",
+      "Conrad Pune",
+      "The Westin Pune",
+      "Sheraton Grand Pune"
+    ],
+    "food": [
+      "Misal Pav",
+      "Vada Pav",
+      "Puran Poli",
+      "Bhakarwadi",
+      "Mastani"
+    ]
+  },
+
+  "mumbai": {
+    "places": [
+      "Gateway of India",
+      "Marine Drive",
+      "Juhu Beach",
+      "Elephanta Caves",
+      "Haji Ali Dargah",
+      "CST Station",
+      "Colaba Causeway",
+      "Sanjay Gandhi National Park",
+      "Bandra-Worli Sea Link",
+      "Essel World"
+    ],
+    "hotels": [
+      "Taj Mahal Palace",
+      "The Oberoi Mumbai",
+      "Trident Nariman Point",
+      "ITC Maratha",
+      "Novotel Juhu Beach"
+    ],
+    "food": [
+      "Vada Pav",
+      "Pav Bhaji",
+      "Bhel Puri",
+      "Bombay Sandwich",
+      "Keema Pav"
+    ]
+  },
+
+  "nagpur": {
+    "places": [
+      "Deekshabhoomi",
+      "Sitabuldi Fort",
+      "Ambazari Lake",
+      "Futala Lake",
+      "Seminary Hill",
+      "Dragon Palace Temple",
+      "Maharajbagh Zoo",
+      "Raman Science Centre",
+      "Gorewada Zoo",
+      "Zero Mile Stone"
+    ],
+    "hotels": [
+      "Radisson Blu Nagpur",
+      "Le Meridien Nagpur",
+      "Tuli Imperial",
+      "Centre Point Hotel",
+      "The Pride Hotel"
+    ],
+    "food": [
+      "Tarri Poha",
+      "Saoji Chicken",
+      "Orange Barfi",
+      "Patodi Rassa",
+      "Sabudana Khichdi"
+    ]
+  },
+
+  "lonavala": {
+    "places": [
+      "Tiger Point",
+      "Bhushi Dam",
+      "Lion Point",
+      "Karla Caves",
+      "Lohagad Fort",
+      "Rajmachi Fort",
+      "Duke’s Nose",
+      "Wax Museum",
+      "Ryewood Park",
+      "Valvan Dam"
+    ],
+    "hotels": [
+      "Fariyas Resort",
+      "Della Resort",
+      "The Dukes Retreat",
+      "Rhythm Lonavala",
+      "Cloud 9 Hills Resort"
+    ],
+    "food": [
+      "Chikki",
+      "Fudge",
+      "Maggi at Point",
+      "Corn Bhutta",
+      "Vada Pav"
+    ]
+  },
+
+  "kolhapur": {
+    "places": [
+      "Mahalaxmi Temple",
+      "Rankala Lake",
+      "Panhala Fort",
+      "New Palace Museum",
+      "Jyotiba Temple",
+      "Radhanagari Dam",
+      "Dajipur Wildlife Sanctuary",
+      "Shalini Palace",
+      "Town Hall Museum",
+      "Binkhambi Ganesh Temple"
+    ],
+    "hotels": [
+      "Sayaji Hotel Kolhapur",
+      "Citrus Hotel",
+      "Hotel Maratha Regency",
+      "Balaji Sarovar Premiere",
+      "Hotel Pearl"
+    ],
+    "food": [
+      "Kolhapuri Misal",
+      "Tambada Rassa",
+      "Pandhara Rassa",
+      "Kolhapuri Chicken",
+      "Bhakri"
+    ]
+  },
+
+  "alibaug": {
+    "places": [
+      "Alibaug Beach",
+      "Kolaba Fort",
+      "Nagaon Beach",
+      "Kashid Beach",
+      "Murud Janjira Fort",
+      "Varsoli Beach",
+      "Kihim Beach",
+      "Akshi Beach",
+      "Kanakeshwar Temple",
+      "Revdanda Fort"
+    ],
+    "hotels": [
+      "Radisson Blu Alibaug",
+      "U Tropicana Resort",
+      "Sanman Beach Resort",
+      "Maple Ivy Resort",
+      "Outpost Alibaug"
+    ],
+    "food": [
+      "Seafood Thali",
+      "Fish Fry",
+      "Prawn Curry",
+      "Solkadhi",
+      "Kokum Juice"
+    ]
+  },
+
+  "satara": {
+    "places": [
+      "Kaas Plateau",
+      "Thoseghar Waterfall",
+      "Sajjangad Fort",
+      "Ajinkyatara Fort",
+      "Koyna Dam",
+      "Chalkewadi Windmills",
+      "Mayani Bird Sanctuary",
+      "Natraj Mandir",
+      "Bamnoli",
+      "Tapola"
+    ],
+    "hotels": [
+      "Hotel Radhika Palace",
+      "Hotel Maharaja Regency",
+      "Hotel Maratha Palace",
+      "Nature Valley Resort",
+      "Hotel Aditi"
+    ],
+    "food": [
+      "Pithla Bhakri",
+      "Zunka Bhakar",
+      "Vada Pav",
+      "Misal Pav",
+      "Kanda Bhaji"
+    ]
+  },
+
+  "amravati": {
+    "places": [
+      "Chikhaldara Hill Station",
+      "Melghat Tiger Reserve",
+      "Gavilgad Fort",
+      "Bhimkund",
+      "Satpura Hills",
+      "Shakkar Lake",
+      "Devi Point",
+      "Narnala Fort",
+      "Wan Sanctuary",
+      "Semadoh"
+    ],
+    "hotels": [
+      "Harshawardhan Hotel",
+      "Hotel Grand Mehfil",
+      "Hotel Amrapali",
+      "Hotel Mehfil Inn",
+      "MTDC Resort Chikhaldara"
+    ],
+    "food": [
+      "Poha",
+      "Bhaji",
+      "Dal Baati",
+      "Kachori",
+      "Jalebi"
+    ]
+  }
+}
